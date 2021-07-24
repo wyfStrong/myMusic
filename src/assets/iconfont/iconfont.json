@@ -1,0 +1,72 @@
+{
+  "id": "2641371",
+  "name": "films",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "2583082",
+      "name": "icon-曲库",
+      "font_class": "icon-quku",
+      "unicode": "e63d",
+      "unicode_decimal": 58941
+    },
+    {
+      "icon_id": "5137193",
+      "name": "直播 播放 摄像机 天线 线性",
+      "font_class": "zhibobofangshexiangjitianxianxianxing",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "6204097",
+      "name": "首页",
+      "font_class": "shouye",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "17935510",
+      "name": "我 的",
+      "font_class": "header-menu-icon-my",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "21955032",
+      "name": "播放图标",
+      "font_class": "bofangtubiao",
+      "unicode": "e65b",
+      "unicode_decimal": 58971
+    },
+    {
+      "icon_id": "9944226",
+      "name": "资讯",
+      "font_class": "zixun",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "19306437",
+      "name": "影院",
+      "font_class": "yingyuan",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    },
+    {
+      "icon_id": "19675436",
+      "name": "电影",
+      "font_class": "yingshi2",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "21718855",
+      "name": "个人中心",
+      "font_class": "profile",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    }
+  ]
+}
